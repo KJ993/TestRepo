@@ -13,19 +13,15 @@ int main()
 	{
 	case '+':
 		cout << num1 + num2;
-		system("pause");
 		break;
 	case '-':
 		cout << num1 - num2;
-		system("pause");
 		break;
 	case '*':
 		cout << num1 * num2;
-		system("pause");
 		break;
 	case '/':
 		cout << num1 / num2;
-		system("pause");
 		break;
 	default:
 		cout << "Virheellinen operaattori!";
