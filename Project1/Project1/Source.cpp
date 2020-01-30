@@ -4,6 +4,7 @@ int main()
 {
 	char op;
 	float num1, num2;
+	cout << "Yksinkertainen laskin" << endl;
 	cout << "Syötä operaattori + tai - tai * tai /: ";
 	cin >> op;
 	cout << "Syötä kaksi lukua: ";
